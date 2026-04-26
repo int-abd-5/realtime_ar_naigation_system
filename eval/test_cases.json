@@ -1,0 +1,26 @@
+[
+  { "id": "t01", "start_node": "C1", "goal_node": "D1" },
+  { "id": "t02", "start_node": "C1", "goal_node": "D2" },
+  { "id": "t03", "start_node": "C1", "goal_node": "D3" },
+  { "id": "t04", "start_node": "C1", "goal_node": "D4" },
+
+  { "id": "t05", "start_node": "C3", "goal_node": "C10" },
+  { "id": "t06", "start_node": "C4", "goal_node": "C12" },
+  { "id": "t07", "start_node": "C5", "goal_node": "C14" },
+  { "id": "t08", "start_node": "C2", "goal_node": "C11" },
+
+  { "id": "t09", "start_node": "D4", "goal_node": "D1" },
+  { "id": "t10", "start_node": "D4", "goal_node": "D2" },
+  { "id": "t11", "start_node": "D4", "goal_node": "D3" },
+  { "id": "t12", "start_node": "D1", "goal_node": "D3" },
+
+  { "id": "t13", "start_node": "C6", "goal_node": "D2" },
+  { "id": "t14", "start_node": "C7", "goal_node": "D3" },
+  { "id": "t15", "start_node": "C8", "goal_node": "D1" },
+  { "id": "t16", "start_node": "C9", "goal_node": "D4" },
+
+  { "id": "t17", "start_node": "C10", "goal_node": "C2" },
+  { "id": "t18", "start_node": "C11", "goal_node": "C4" },
+  { "id": "t19", "start_node": "C12", "goal_node": "C5" },
+  { "id": "t20", "start_node": "C14", "goal_node": "C1" }
+]

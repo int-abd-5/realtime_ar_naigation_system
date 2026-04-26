@@ -1,0 +1,6 @@
+{
+  "active_map": "sparse0",
+  "fused_ply": "assets/maps/sparse0/fused_m0.ply",
+  "mesh_ply": "assets/maps/sparse0/mesh_m0.ply",
+  "coordinate_frame": "colmap_world"
+}

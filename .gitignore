@@ -1,0 +1,59 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Build / temp
+build/
+dist/
+tmp/
+temp/
+
+# Large reconstruction / datasets (do not commit)
+colmap_workspace/
+dataset_output/
+outputs/
+
+# Databases and binaries
+*.db
+*.sqlite
+*.sqlite3
+
+# Media-heavy raw data
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.7z
+*.rar
+
+# 3D heavy artifacts (keep out of normal git; use release/LFS if needed)
+*.ply
+*.obj
+*.stl
+*.fbx
+*.glb
+*.gltf
+*.pcd
+*.las
+*.laz
