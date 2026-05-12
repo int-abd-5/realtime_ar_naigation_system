@@ -1,0 +1,17 @@
+{
+  "active_map": "floor_v2_half_floor_approved",
+  "fused_ply": "assets/maps/fused_final.ply",
+  "mesh_ply": "assets/maps/mesh_final.ply",
+  "coordinate_frame": "colmap_world",
+  "notes": "Teacher-approved half-floor coverage for demo",
+  "fused_ply_info": {
+    "vertex_count": 1041860,
+    "face_count": null,
+    "bytes": 28130455
+  },
+  "mesh_ply_info": {
+    "vertex_count": 4901418,
+    "face_count": 5114216,
+    "bytes": 174954658
+  }
+}

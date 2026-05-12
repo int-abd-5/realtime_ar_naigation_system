@@ -1,0 +1,50 @@
+[
+  {
+    "corner_nodes": [
+      {"id":"C1_START_F201_IT","name":"Start near F201/IT","type":"corner","x":-3.450802,"z":1.810398},
+      {"id":"C2_PRE_J1","name":"Before Junction 1","type":"corner","x":-1.908503,"z":1.023212},
+      {"id":"C3_J1_CENTER","name":"Junction 1 Center","type":"corner","x":-1.175344,"z":0.643303},
+      {"id":"C4_POST_J1","name":"After Junction 1 (straight path)","type":"corner","x":-0.531357,"z":0.355624},
+      {"id":"C5_F203_F204_ZONE","name":"F203/F204 Zone","type":"corner","x":-0.476228,"z":0.313377},
+      {"id":"C6_F208_F209_ZONE","name":"F208/F209 Zone","type":"corner","x":2.532686,"z":-1.145105},
+      {"id":"C7_PRE_J2","name":"Before Junction 2","type":"corner","x":2.643104,"z":-1.180325},
+      {"id":"C8_J2_CENTER","name":"Junction 2 Center","type":"corner","x":3.381876,"z":-1.525000},
+      {"id":"C9_POST_J2_F205_ZONE","name":"After Junction 2 / F205 Zone","type":"corner","x":3.867591,"z":-1.968759},
+      {"id":"C10_F206_ZONE","name":"F206 Zone","type":"corner","x":4.450000,"z":-2.200000},
+      {"id":"C11_F207_BACK_END","name":"F207 Back End","type":"corner","x":5.468493,"z":-2.551186}
+    ],
+    "door_nodes": [
+      {"id":"F201_D1","name":"F-201 Door 1","type":"doorway","x":-3.00631,"z":1.940617},
+      {"id":"F201_D2","name":"F-201 Door 2","type":"doorway","x":-1.794393,"z":1.310236},
+      {"id":"F202_D1","name":"F-202 Door 1","type":"doorway","x":-1.533549,"z":1.157367},
+      {"id":"F202_D2","name":"F-202 Door 2","type":"doorway","x":-0.402055,"z":0.60234},
+      {"id":"F203_D1","name":"F-203 Door 1","type":"doorway","x":-0.123105,"z":0.471184},
+      {"id":"F203_D2","name":"F-203 Door 2","type":"doorway","x":1.125006,"z":-0.141189},
+      {"id":"F204_D1","name":"F-204 Door 1","type":"doorway","x":1.413399,"z":-0.307481},
+      {"id":"F204_D2","name":"F-204 Door 2","type":"doorway","x":2.651104,"z":-0.900392},
+      {"id":"F205_D1","name":"F-205 Door 1","type":"doorway","x":2.918879,"z":-1.029756},
+      {"id":"F205_D2","name":"F-205 Door 2","type":"doorway","x":4.031503,"z":-1.581445},
+      {"id":"F206_D1","name":"F-206 Door 1","type":"doorway","x":4.308174,"z":-1.726787},
+      {"id":"F206_D2","name":"F-206 Door 2","type":"doorway","x":5.548359,"z":-2.328082},
+      {"id":"F207_back","name":"F-207 back","type":"doorway","x":4.850474,"z":-2.685443},
+      {"id":"F208_D1","name":"F-208 Door 1","type":"doorway","x":2.296296,"z":-1.403806},
+      {"id":"F208_D2","name":"F-208 Door 2","type":"doorway","x":1.179097,"z":-0.867527},
+      {"id":"F209_D1","name":"F-209 Door 1","type":"doorway","x":0.806393,"z":-0.683617},
+      {"id":"F209_D2","name":"F-209 Door 2","type":"doorway","x":-0.308965,"z":-0.115025},
+      {"id":"IT_help_desk","name":"IT Help Desk","type":"doorway","x":-2.207442,"z":0.786804},
+      {"id":"water_cooler","name":"Water Cooler","type":"doorway","x":-4.257347,"z":2.530359},
+      {"id":"men_washroom","name":"Men Washroom","type":"doorway","x":-4.029152,"z":2.394252},
+      {"id":"women_washroom","name":"Women Washroom","type":"doorway","x":6.430000,"z":-2.749794},
+
+      {"id":"D201","name":"F-201","type":"destination","x":-3.00631,"z":1.940617},
+      {"id":"D202","name":"F-202","type":"destination","x":-1.533549,"z":1.157367},
+      {"id":"D203","name":"F-203","type":"destination","x":-0.123105,"z":0.471184},
+      {"id":"D204","name":"F-204","type":"destination","x":1.413399,"z":-0.307481},
+      {"id":"D205","name":"F-205","type":"destination","x":2.918879,"z":-1.029756},
+      {"id":"D206","name":"F-206","type":"destination","x":4.308174,"z":-1.726787},
+      {"id":"D207","name":"F-207","type":"destination","x":4.850474,"z":-2.685443},
+      {"id":"D208","name":"F-208","type":"destination","x":2.296296,"z":-1.403806},
+      {"id":"D209","name":"F-209","type":"destination","x":0.806393,"z":-0.683617}
+    ]
+  }
+]

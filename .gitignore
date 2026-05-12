@@ -1,0 +1,60 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+backend/.venv/
+
+# Node / Android
+node_modules/
+.gradle/
+.idea/
+*.iml
+**/build/
+
+# Runtime outputs
+outputs/
+*.tmp
+
+# Large COLMAP / SfM / MVS artifacts
+colmap_workspace/
+**/sparse/
+**/dense/
+**/stereo/
+**/consistency_graphs/
+**/depth_maps/
+**/normal_maps/
+*.ply
+*.obj
+*.bin
+*.nvm
+
+# Databases and caches
+*.db
+*.db-shm
+*.db-wal
+
+# Raw media / extracted frames
+data/raw_video/
+data/frames_raw/
+data/frames_clean/
+*.mp4
+*.mov
+*.avi
+
+# Backend visual map heavy assets
+backend/data/visual_map/images/
+backend/data/visual_map/model/
+backend/data/visual_map/database.db
+
+# Local env files
+.env
+.env.*

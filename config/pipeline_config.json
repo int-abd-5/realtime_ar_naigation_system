@@ -1,0 +1,13 @@
+{
+  "video_path": "data/raw_video/20260421_093509.mp4",
+  "frame_sample_fps": 1.0,
+  "resize_width": 1920,
+  "resize_height": 1080,
+  "blur_threshold": 80.0,
+  "brightness_min": 35.0,
+  "brightness_max": 220.0,
+  "dedupe_ssim_threshold": 0.985,
+  "colmap_path": "C:/Users/Abdul/Downloads/colmap-x64-windows-nocuda/COLMAP.bat",
+  "camera_model": "SIMPLE_RADIAL",
+  "single_camera": 1
+}
